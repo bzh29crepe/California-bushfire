@@ -1,2 +1,2 @@
 # California-bushfire
-Advanced data visualisation
+Advanced data visualisation project
